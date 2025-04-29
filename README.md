@@ -1,6 +1,9 @@
 # Carrinho de Compras - Agendador de tarefas
 
 A atividade consiste em formular 2 ideias para para um projeto final da disciplina de programação 3 usando um framework especificado pelo professor.
+Disciplina: Programação 3
+Campus: São Miguel do Oeste
+Integrantes: Guilherme Morigi, Ivan da Silva, Nathan Riffel e Thiago Heckler
 
 ## Carrinho de Compras
 
@@ -9,3 +12,6 @@ Este projeto consiste em uma aplicação simples de um mercado. O usuário tera 
 ## Agendador de tarefas
 
 Um sistema simples de tarefas, o usuário podera criar uma tarefa, podendo escolher entre diversas formas de tarefas (para um dia especifico, a cada semana, a cada mês), podera marcar a tarefa como concluida, recebera aviso de tarefas pendentes, mostrar as tarefas e editar uma tarefa
+
+## Framework
+Achamos adequado utilizar o framework Yii2
